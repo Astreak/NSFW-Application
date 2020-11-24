@@ -8,3 +8,6 @@ necessary action against following users.
 - #### Tensorflow
 - #### keras
 - #### Python
+### Python Modules used
+- Numpy
+- pandas
