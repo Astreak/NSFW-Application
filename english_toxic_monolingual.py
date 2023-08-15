@@ -120,7 +120,7 @@ pred=mo.predict(seq)
 
 mo.save("Toxicity.h5")
 
-pop="Hey brother you are a whore"
+pop="Hey brother"
 P=token.texts_to_sequences([pop])
 
 P=pad_sequences(P,maxlen=120,padding="post")
